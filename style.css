@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+#Count {
+  text-align: center;
+  font-size: 10em;
+}
+#container {
+  text-align: center;
+  padding: 10px 20px;
+}
+.btnok {
+  background-color: rgba(0, 0, 255, 0.568);
+  padding: 10px 20px;
+  border-radius: 20px;
+  color: white;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+.btnok:hover {
+  background-color: rgb(88, 88, 233);
+}
